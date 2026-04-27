@@ -1,0 +1,9 @@
+name,email,phone,address
+Juan dela Cruz,juan@email.com,09171234567,Quezon City
+Maria Santos,maria@email.com,09281234567,Manila
+Pedro Reyes,pedro_invalid_email,09391234567,Cebu
+Ana Garcia,ana@email.com,1234,Davao
+Jose Rizal,,09501234567,Rizal
+Maria Santos,maria@email.com,09281234567,Manila
+Roberto Cruz,roberto@email.com,09611234567,
+,empty@email.com,09721234567,Batangas
